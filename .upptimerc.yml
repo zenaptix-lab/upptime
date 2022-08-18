@@ -11,7 +11,7 @@ sites:
     url: https://zenaptix.com
 
 status-website:
-  name: zenAptix Uptime
+  name: Uptime
   baseUrl: /upptime
   logoUrl: https://zenaptix.com/rw_common/images/zenaptix_logo.png
   favicon: https://zenaptix.com/resources/favicon_medium.png
