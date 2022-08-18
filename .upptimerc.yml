@@ -18,11 +18,11 @@ status-website:
   introMessage: Service status is updated approximately every 5-30 minutes.
   theme: light
   navbar:
-    - title: zenAptix Home
+    - title: Home
       href: https://zenaptix.com
     - title: GitHub
       href: https://github.com/$OWNER
-    - title: Upptime Repo
+    - title: Upptime
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
