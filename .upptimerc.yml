@@ -9,6 +9,16 @@ assignees:
 sites:
   - name: zenAptix
     url: https://zenaptix.com
+  - name: DuckDuckGo (Redirect Test)
+    url: http://duckduckgo.com
+  - name: Google
+    url: https://www.google.com
+  - name: Wikipedia
+    url: https://en.wikipedia.org
+  - name: Hacker News
+    url: https://news.ycombinator.com
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   name: Uptime
