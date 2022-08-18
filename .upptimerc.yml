@@ -16,11 +16,13 @@ status-website:
   logoUrl: https://zenaptix.com/rw_common/images/zenaptix_logo.png
   favicon: https://zenaptix.com/resources/favicon_medium.png
   introMessage: Service status is updated approximately every 5-30 minutes.
-  theme: ocean
+  theme: light
   navbar:
-    - title: Status
-      href: /
+    - title: zenAptix Home
+      href: https://zenaptix.com
     - title: GitHub
+      href: https://github.com/$OWNER
+    - title: Upptime Repo
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
