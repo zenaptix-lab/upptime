@@ -11,8 +11,11 @@ sites:
     url: https://zenaptix.com
 
 status-website:
-  name: Upptime
+  name: zenAptix Uptime
   baseUrl: /repo
+  logoUrl: https://zenaptix.com/rw_common/images/zenaptix_logo.png
+  favicon: https://zenaptix.com/resources/favicon_medium.png
+  introMessage: Service status is updated approximately every 5-30 minutes.
   navbar:
     - title: Status
       href: /
