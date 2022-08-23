@@ -9,6 +9,8 @@ assignees:
 sites:
   - name: zenAptix
     url: https://zenaptix.com
+  - name: borked
+    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   name: Uptime
