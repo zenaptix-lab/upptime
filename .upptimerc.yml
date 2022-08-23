@@ -26,7 +26,7 @@ status-website:
   logoUrl: https://zenaptix.com/rw_common/images/zenaptix_logo.png
   favicon: https://zenaptix.com/resources/favicon_medium.png
   introMessage: Service status is updated approximately every 5-30 minutes.
-  theme: light
+  theme: dark
   navbar:
     - title: Home
       href: https://zenaptix.com
