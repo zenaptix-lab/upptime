@@ -10,11 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 528,
-    "timeDay": 363,
-    "timeWeek": 528,
-    "timeMonth": 528,
-    "timeYear": 528,
+    "time": 525,
+    "timeDay": 418,
+    "timeWeek": 525,
+    "timeMonth": 525,
+    "timeYear": 525,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "borked",
+    "url": "https://thissitedoesnotexist.koj.co",
+    "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.koj.co",
+    "slug": "borked",
+    "status": "down",
+    "uptime": "38.12%",
+    "uptimeDay": "38.12%",
+    "uptimeWeek": "38.12%",
+    "uptimeMonth": "38.12%",
+    "uptimeYear": "38.12%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-08-23": 0
+    }
   }
 ]
