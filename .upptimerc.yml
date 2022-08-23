@@ -5,13 +5,20 @@ user-agent: zenaptix-lab
 
 assignees:
   - rblaine95
+  - wdbasson
+  - MatthewBaird-ops
 
 sites:
   - name: zenAptix
     url: https://zenaptix.com
-  - name: borked
-    url: https://zenaptix.com
-    # url: https://thissitedoesnotexist.koj.co
+  - name: Splendi
+    url: https://www.splendi.co.za
+  - name: DealerRobot
+    url: https://dealerbot.co.za
+  - name: IKnowYou
+    url: https://iknowyou.co.za
+  - name: DDMS
+    url: https://duediligencems.co.za
 
 status-website:
   name: Uptime
