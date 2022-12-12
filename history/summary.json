@@ -22,19 +22,19 @@
     "url": "https://www.splendi.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/www.splendi.co.za.ico",
     "slug": "splendi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1154,
-    "timeDay": 779,
-    "timeWeek": 1307,
-    "timeMonth": 1266,
-    "timeYear": 1154,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1149,
+    "timeDay": 708,
+    "timeWeek": 1225,
+    "timeMonth": 1244,
+    "timeYear": 1149,
     "dailyMinutesDown": {
-      "2022-12-12": 0
+      "2022-12-12": 12
     }
   },
   {
