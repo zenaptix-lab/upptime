@@ -40,19 +40,19 @@
     "url": "https://dealerbot.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/dealerbot.co.za.ico",
     "slug": "dealer-robot",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 805,
-    "timeDay": 621,
-    "timeWeek": 764,
-    "timeMonth": 799,
-    "timeYear": 805,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 806,
+    "timeDay": 765,
+    "timeWeek": 796,
+    "timeMonth": 807,
+    "timeYear": 806,
     "dailyMinutesDown": {
-      "2023-02-13": 0
+      "2023-02-13": 15
     }
   },
   {
@@ -60,18 +60,20 @@
     "url": "https://iknowyou.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/iknowyou.co.za.ico",
     "slug": "i-know-you",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 919,
-    "timeDay": 1021,
-    "timeWeek": 817,
-    "timeMonth": 843,
-    "timeYear": 919,
-    "dailyMinutesDown": {}
+    "time": 917,
+    "timeDay": 832,
+    "timeWeek": 796,
+    "timeMonth": 837,
+    "timeYear": 917,
+    "dailyMinutesDown": {
+      "2023-02-13": 0
+    }
   },
   {
     "name": "DDMS",
