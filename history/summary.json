@@ -41,38 +41,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/dealerbot.co.za.ico",
     "slug": "dealer-robot",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 806,
     "timeDay": 765,
     "timeWeek": 796,
     "timeMonth": 807,
     "timeYear": 806,
-    "dailyMinutesDown": {
-      "2023-02-13": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "IKnowYou",
     "url": "https://iknowyou.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/iknowyou.co.za.ico",
     "slug": "i-know-you",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 917,
-    "timeDay": 832,
-    "timeWeek": 796,
-    "timeMonth": 837,
-    "timeYear": 917,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 916,
+    "timeDay": 810,
+    "timeWeek": 792,
+    "timeMonth": 835,
+    "timeYear": 916,
     "dailyMinutesDown": {
-      "2023-02-13": 0
+      "2023-02-13": 14
     }
   },
   {
