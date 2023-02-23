@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 488,
-    "timeDay": 399,
-    "timeWeek": 483,
-    "timeMonth": 478,
+    "timeDay": 612,
+    "timeWeek": 513,
+    "timeMonth": 476,
     "timeYear": 488,
     "dailyMinutesDown": {}
   },
@@ -24,18 +24,16 @@
     "slug": "splendi",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1044,
-    "timeDay": 852,
-    "timeWeek": 846,
-    "timeMonth": 813,
-    "timeYear": 1044,
-    "dailyMinutesDown": {
-      "2023-02-22": 9
-    }
+    "time": 1057,
+    "timeDay": 1791,
+    "timeWeek": 1126,
+    "timeMonth": 887,
+    "timeYear": 1057,
+    "dailyMinutesDown": {}
   },
   {
     "name": "DealerRobot",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 804,
-    "timeDay": 610,
-    "timeWeek": 829,
-    "timeMonth": 808,
-    "timeYear": 804,
+    "time": 806,
+    "timeDay": 1143,
+    "timeWeek": 896,
+    "timeMonth": 810,
+    "timeYear": 806,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 908,
-    "timeDay": 609,
-    "timeWeek": 799,
-    "timeMonth": 814,
-    "timeYear": 908,
+    "time": 910,
+    "timeDay": 1132,
+    "timeWeek": 875,
+    "timeMonth": 817,
+    "timeYear": 910,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 526,
-    "timeDay": 342,
-    "timeWeek": 516,
-    "timeMonth": 529,
-    "timeYear": 526,
+    "time": 528,
+    "timeDay": 818,
+    "timeWeek": 576,
+    "timeMonth": 534,
+    "timeYear": 528,
     "dailyMinutesDown": {}
   }
 ]
