@@ -60,35 +60,35 @@
     "slug": "i-know-you",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 879,
     "timeDay": 609,
     "timeWeek": 669,
     "timeMonth": 693,
     "timeYear": 879,
-    "dailyMinutesDown": {
-      "2023-03-28": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DDMS",
     "url": "https://duediligencems.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/duediligencems.co.za.ico",
     "slug": "ddms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 529,
-    "timeDay": 636,
-    "timeWeek": 487,
-    "timeMonth": 532,
-    "timeYear": 529,
-    "dailyMinutesDown": {}
+    "time": 528,
+    "timeDay": 551,
+    "timeWeek": 484,
+    "timeMonth": 529,
+    "timeYear": 528,
+    "dailyMinutesDown": {
+      "2023-03-28": 0
+    }
   }
 ]
