@@ -22,18 +22,20 @@
     "url": "https://www.splendi.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/www.splendi.co.za.ico",
     "slug": "splendi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1002,
-    "timeDay": 834,
-    "timeWeek": 818,
-    "timeMonth": 799,
-    "timeYear": 1002,
-    "dailyMinutesDown": {}
+    "time": 1001,
+    "timeDay": 740,
+    "timeWeek": 796,
+    "timeMonth": 795,
+    "timeYear": 1001,
+    "dailyMinutesDown": {
+      "2023-04-13": 0
+    }
   },
   {
     "name": "DealerRobot",
