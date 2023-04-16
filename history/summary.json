@@ -42,18 +42,20 @@
     "url": "https://dealerbot.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/dealerbot.co.za.ico",
     "slug": "dealer-robot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 797,
-    "timeDay": 957,
-    "timeWeek": 799,
-    "timeMonth": 761,
-    "timeYear": 797,
-    "dailyMinutesDown": {}
+    "time": 796,
+    "timeDay": 829,
+    "timeWeek": 788,
+    "timeMonth": 759,
+    "timeYear": 796,
+    "dailyMinutesDown": {
+      "2023-04-16": 0
+    }
   },
   {
     "name": "IKnowYou",
