@@ -3,8 +3,7 @@ owner: zenaptix-lab # Your GitHub organization or username, where this repositor
 repo: upptime # The name of this repository
 user-agent: zenaptix-lab
 
-assignees:
-  - rblaine95
+assignees: []
 
 sites:
   - name: zenAptix
